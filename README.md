@@ -4,7 +4,7 @@ This is us:
 
 Join us and you will be a rubber duck!😄
 ### Stuff and Things:
-# [Start JavaScript in under 1 hour or get your 💸 back 100% working. #javascript #fornoobies]
+# [Start JavaScript in under 1 hour or get your 💸 back 100% working. #javascript #fornoobies](https://github.com/eternalxlks/Javascript-Learn-1Hour)
 # The EternalShop
 
 All about a shop! Visit [The Shop](https://eternalxlks.github.io/EternalShop/)
